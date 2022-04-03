@@ -361,4 +361,5 @@ grid-gap: 50px
 .copyright p{
     color: var(--box);
     font-weight: bold;
+    text-align: center;
 }
